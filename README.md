@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Mayank</h1>
 
-<!--
-**mayankdua297/mayankdua297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Final Year Post Grad student pursuing Master of Computer Applications (MCA) 🎓 from National Institute of Technology, Karnataka (NITK) 🏛.
+- I'm a full stack MERN developer and ML enthusiast.
+- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talking about Personal Stuffs:
+
+- 🌱 I also enjoy solving algorithmic problems on various coding platforms.
+
+- 🔭 I’m currently working on **Web Development and Machine Learning 💻.**
+
+- 📫 You can reach me at **mayankdua297@gmail.com** or through linkedin <a href="https://linkedin.com/in/mayankdua297" target="blank">**@mayankdua297**</a>
