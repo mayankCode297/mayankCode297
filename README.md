@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mayank</h1>
 
-- I am a Software Developer Engineer @ Infoworks
+- I'm a Software Developer Engineer at Infoworks
 - I have done my Post Graduation, Master of Computer Applications (MCA) 🎓 from National Institute of Technology, Karnataka (NITK) 🏛.
 - I'm a full stack MERN developer and ML enthusiast.
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
